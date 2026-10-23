@@ -1,0 +1,9 @@
+# Spawn Timer Project
+
+This directory contains the Spawn Timer project files.
+
+## Structure
+- Documentation: Project documentation and guides
+
+## Current Status
+Initial setup complete
