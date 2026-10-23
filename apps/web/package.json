@@ -1,0 +1,5 @@
+{
+  "name": "@spawn-sync/web",
+  "private": true,
+  "type": "module"
+}
