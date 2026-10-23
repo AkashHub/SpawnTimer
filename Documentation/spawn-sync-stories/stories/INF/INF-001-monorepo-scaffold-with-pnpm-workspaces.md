@@ -5,7 +5,7 @@ epic: INF
 priority: must
 verification: infra
 size: M
-status: ready
+status: testing
 depends_on: []
 branch: story/INF-001-monorepo-scaffold-with-pnpm-workspaces
 ---

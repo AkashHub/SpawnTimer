@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.data
+
+# Dependency directories
+node_modules/
+dist/
+.nuxt/
+.server/
+*.d.ts.map
+
+# Build directory
+build/
+
+# Environment variables
+.env.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+.cache/
+
+# Cloudflare
+.wrangler/
+.dev.vars
+
+# Test files
+playwright-report/
+test-results/
+
+# Local development
+apps/api/seeds/
